@@ -1,6 +1,6 @@
 <!-- Intro Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00BFFF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Harshit+👋;Mobile+App+Developer;Flutter+%E2%9C%94%EF%B8%8F+React+Native+%E2%9C%94%EF%B8%8F+React.js;I+build+modern+and+clean+UI+Apps+🚀;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00BFFF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Harshit+Ranpara+👋;Mobile+App+Developer;Flutter+%E2%9C%94%EF%B8%8F+React+Native+%E2%9C%94%EF%B8%8F+React.js;I+build+modern+and+clean+UI+Apps+🚀;" />
 </p>
 
 ---
